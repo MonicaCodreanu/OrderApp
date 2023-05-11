@@ -1,4 +1,5 @@
 import galleryImg from "../../assets/Attick_paintings.jpg";
+
 import classes from "./Header.module.css";
 import HeaderCartButton from "./HeaderCartButton";
 
