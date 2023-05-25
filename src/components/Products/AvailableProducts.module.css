@@ -10,6 +10,14 @@
   margin: 0;
   padding: 0;
 }
+.productLoading {
+  text-align: center;
+  color: white;
+}
+.productLoadingError {
+  text-align: center;
+  color: red;
+}
 
 @keyframes products-appear {
   from {
